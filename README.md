@@ -4,7 +4,7 @@ Temporarily block bots from accessing your sites using Cloudflare.
 
 - [Download](https://github.com/netducks/Botervene/releases)
 - [Setup](SETUP.md)
-- [Configuration)[CONFIG.md]
+- [Configuration](CONFIG.md)
 
 ## How would Botervene know what a bot is?
 

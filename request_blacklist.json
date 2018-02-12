@@ -4,7 +4,7 @@
 	"/admin/":0.25,
 	"/administrator/index.php":0.25,
 
-	"/ogPipe.aspx":0.75,
+	"/ogPipe.aspx":1,
 	"/theme/assets/global/plugins/jquery-file-upload/server/php/":1,
 
 	"/adminer.php":1,

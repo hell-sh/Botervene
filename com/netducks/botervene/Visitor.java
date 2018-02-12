@@ -94,6 +94,7 @@ public class Visitor
 		http.setRequestProperty("X-Auth-Email", Main.config.cf_email);
 		http.setRequestProperty("X-Auth-Key", Main.config.cf_key);
 		http.connect();
+		http.getInputStream();
 		this.bot_level = 0;
 		this.ban_id = null;
 		System.out.println(ip + " is no longer banned.");

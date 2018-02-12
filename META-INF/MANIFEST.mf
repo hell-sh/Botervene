@@ -1,0 +1,2 @@
+Manifest-Version: 1
+Main-Class: com.netducks.botervene.Main
